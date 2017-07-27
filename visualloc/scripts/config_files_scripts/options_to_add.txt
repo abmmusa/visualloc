@@ -1,0 +1,5 @@
+--match_table matches.init.txt
+--output bundle_to_add.out
+--output_all bundle_to_add_
+--output_dir bundle_to_add
+--ray_angle_threshold 2.0
